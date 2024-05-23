@@ -1,0 +1,6 @@
+config.py
+/venv/
+api-alaniz-52989446fd3b.json
+/.idea/
+/__pycache__/
+.DS_Store
