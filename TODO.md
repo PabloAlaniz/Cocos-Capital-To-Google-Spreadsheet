@@ -6,11 +6,11 @@ _(vacío)_
 
 ## 🔄 En progreso
 
-- [ ] @cortazar - Expandir README: Quick Start, Arquitectura, Testing, Deploy (Cloud Functions), Troubleshooting
+_(vacío)_
 
 ## 👁️ Review
 
-_(vacío)_
+- [ ] PR #4 - @cortazar - Expandir README: Quick Start, Arquitectura, Testing, Deploy (Cloud Functions), Troubleshooting - https://github.com/PabloAlaniz/Cocos-Capital-To-Google-Spreadsheet/pull/4
 
 ## ✅ Completado
 
